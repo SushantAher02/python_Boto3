@@ -1,0 +1,7 @@
+my_tuple = (1, 2, 'apple', 'banana',"aher")
+first_element = my_tuple[0]  # Access the first element (1)
+print(first_element)
+print(my_tuple)
+print(type(my_tuple))
+my_tuple.append("newaher")
+print(type(my_tuple))
